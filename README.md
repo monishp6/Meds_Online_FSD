@@ -1,4 +1,4 @@
-# Meds Online (Fullstack scaffold)
+# Meds Online
 
 ## Overview
 This scaffold runs two services:
@@ -25,6 +25,4 @@ This scaffold runs two services:
    - `npm install`
    - `npm run dev` — open http://localhost:5173
 
-## Notes
-- This scaffold aims to provide a working UI matched to your screenshots and basic API functionality.
-- Extend and harden auth, validation, uploads and payment for production.
+
